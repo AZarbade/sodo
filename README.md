@@ -17,3 +17,5 @@ $ cargo run
 |<kbd>q</kbd>|Quit|
 |<kbd>Enter</kbd>|Interact|
 
+*also thanks for showing that <kbd> thing exists 🧡.*
+
